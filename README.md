@@ -1,4 +1,4 @@
-![User Testing can be fun header]( https://github.com/simplysecure/usable-user-testing-can-be-fun-poster/blob/main/header-graphics/usertesting-can-be-fun-poster.png "User Testing can be fun!")
+![User Testing can be fun header](https://raw.githubusercontent.com/simplysecure/devs-guide-to/main/static/poster-cover-image.png "User Testing can be fun!")
 
 # 'Usertesting can be fun: An FAQ' poster version
 
